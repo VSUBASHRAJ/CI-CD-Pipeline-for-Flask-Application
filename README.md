@@ -169,24 +169,20 @@ kubectl get svc
 
 
 ###  Script Execution
+![Application Running](https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/Scripts.png)
 
-![Script](screenshots/script.png)
-
-###  Docker Container
-
-![Docker](screenshots/docker.png)
 
 ###  CI/CD Pipeline
 
-![Pipeline](screenshots/pipeline.png)
+![Application Running](https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/SRP.png)
 
-###  Kubernetes Deployment
+### Report
 
-![Kubernetes](screenshots/k8s.png)
+![Application Running](https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/Report.png)
 
 ---
 
-## 📊 Problem Solved
+##  Problem Solved
 
 ###  Before:
 
