@@ -158,7 +158,7 @@ kubectl get svc
 
 ###  Application Running
 
-![App](screenshots/app.png)
+![App](screenshots/Application Running.png)
 
 ###  Health Check
 
