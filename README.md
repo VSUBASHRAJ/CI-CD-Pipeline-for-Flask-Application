@@ -232,4 +232,4 @@ kubectl get svc
 **Subashraj Vadivel**
 📧 [subashrajv95@gmail.com](mailto:subashrajv95@gmail.com)
 🔗 GitHub: https://github.com/VSUBASHRAJ
-🔗 LinkedIn: https://www.linkedin.com/in/v-subash-raj/
+
