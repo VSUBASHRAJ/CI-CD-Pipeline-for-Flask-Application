@@ -159,9 +159,14 @@ kubectl get svc
 ###  Application Running
 ![Application Running](https://raw.githubusercontent.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/main/flask-devops-app/Screenshots/Application%20Running.png)
 
-###  Health Check
 
-!(flask-devops-app/screenshots/health.png)
+###  Docker Container
+![Application Running]([https://raw.githubusercontent.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/main/flask-devops-app/Screenshots/Application%20Running.png](https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/Docker%20Container.png))
+
+
+###  Health Check
+![Application Running](https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/Health%20Endpoints.png)
+
 
 ###  Script Execution
 
