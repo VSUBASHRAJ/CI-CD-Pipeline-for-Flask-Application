@@ -157,7 +157,7 @@ kubectl get svc
 ## 📸 Screenshots
 
 ###  Application Running
-https://github.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/blob/main/flask-devops-app/Screenshots/Application%20Running.png
+![Application Running](https://raw.githubusercontent.com/VSUBASHRAJ/CI-CD-Pipeline-for-Flask-Application/main/flask-devops-app/Screenshots/Application%20Running.png)
 
 ###  Health Check
 
