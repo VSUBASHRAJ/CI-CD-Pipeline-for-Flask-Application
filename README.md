@@ -162,7 +162,7 @@ kubectl get svc
 
 ###  Health Check
 
-![Health](flask-devops-app/screenshots/health.png)
+!(flask-devops-app/screenshots/health.png)
 
 ###  Script Execution
 
