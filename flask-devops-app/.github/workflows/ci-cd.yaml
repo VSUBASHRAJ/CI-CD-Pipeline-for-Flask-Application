@@ -1,0 +1,18 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build Docker image
+      run: docker build -t flask-app .
+    - name: Run container
+      run: docker run -d -p 5200:5200 flask-app
+    - name: Test health endpoint
+      run: sleep 5 && curl http://localhost:5200/health
